@@ -2,7 +2,7 @@
 
 Clipster automatically generates multiple social media videos and images from a single source video.
 
-If you enjoy using Clipster, consider [buying me a coffee](https://ko-fi.com/iad_draws) or [supporting me on Patreon](https://patreon.com/IadDraws)- it's greatly appreciated!
+If you enjoy using Clipster, consider [buying me a coffee]!
 
 ## Screenshots
 ![Image](/assets/images/sn1.png)
@@ -22,10 +22,10 @@ Drag and drop any video file. MP4, MOV, AVI
 
 **Step 2**: Customize (Optional)
 
-Choose vertical or horizontal format
-Add speed effects
-Adjust intelligent scene analysis weightssettings
-Add your overlay 
+- Choose vertical or horizontal format
+- Add speed effects
+- Adjust intelligent scene analysis weightssettings
+- Add your overlay 
 
 **Step 3**: Generate
 Click one button. Clipster does the rest.
