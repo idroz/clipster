@@ -1,39 +1,41 @@
-# Mezmer
+# Clipster
 
-If you enjoy using Mezmer, consider [buying me a coffee](https://ko-fi.com/iad_draws) or [supporting me on Patreon](https://patreon.com/IadDraws)- it's greatly appreciated!
+Clipster automatically generates multiple social media videos and images from a single source video.
 
-## Immersive Real-Time OP-XY/Z Audio Visualization App
-
-Mezmer is a real-time audio visualization application designed to bring your OP-* sound experiences to life. It captures audio input from a connected device and translates it into dynamic visual patterns, to be enjoyed and/or projected by all music enthusiasts.
+If you enjoy using Clipster, consider [buying me a coffee](https://ko-fi.com/iad_draws) or [supporting me on Patreon](https://patreon.com/IadDraws)- it's greatly appreciated!
 
 ## Screenshots
-![Image](/assets/images/sn3.png)
-![Image](/assets/images/sn4.png)
-![Image](/assets/images/sn6.png)
+![Image](/assets/images/sn1.png)
+![Image](/assets/images/sn2.png)
 
 ## Features
-- [x] Live streaming of audio signal for visualisation
-- [x] OP-Z integration
-- [x] OP-XY integration
-- [x] Automatic audio device detection
-- [ ] Record live audio and video 
-- [ ] A variety of music visuals
+- **Simple UI** - Simple User Interface
+- **Smart Frame Selection** - Local algorithm analyses visual complexity. The algorithm looks for composition and framing, color vibrancy, and scene balance. All settings can be manually configured!
+- **Video Speed Control** - Clipster intelligently speeds up the content. Or slow it down for dramatic effect. You're in control.
+- **Custom Overlay** - add a reference photograph or a custom logo to your videos to provide more context for your audience.
+- **Multiple Output Formats** - Output multiple stills, videos, and shorts. Optimized for Instagram & YouTube
+- **All Local** - Everything runs on your machine
 
-## Demos
-* [Clarity](https://www.youtube.com/watch?v=h8vn7rmbdxk)
+## How it works
+**Step 1**: Drop Your Video
+Drag and drop any video file. MP4, MOV, AVI
 
-## Get Started:
-1. Download, unzip, and launch the app
-2. Plug in your OP-XY or OP-Z via the USB-C connector to your Mac
-3. Watch as your sounds come to life in mesmerizing patterns and movements.
+**Step 2**: Customize (Optional)
 
-## Controls
-* Space: toggles the Information Panel
-* Number keys: control visualisation types
-* Command + Q: Exits the application
+Choose vertical or horizontal format
+Add speed effects
+Adjust intelligent scene analysis weightssettings
+Add your overlay 
+
+**Step 3**: Generate
+Click one button. Clipster does the rest.
+
+**Step 4**: Share
+All formats ready in minutes. Organized, optimized, ready to post.
+
 
 ## Troubleshooting
-Encountered issues or feature suggestions can be reported [here](https://github.com/idroz/mezmer-app/issues).
+Encountered issues or feature suggestions can be reported [here](https://github.com/idroz/clipster/issues).
 
 ## Disclaimer
-Whilst I've done my very best to ensure that this app does not introduce unwanted sideeffects, please enjoy it at your own risk. Both the OP-XY and OP-Z firmware appear to be in active development and it's difficult to predict how Mezmer will interact with each firmware version.
+Whilst I've done my very best to ensure that this app does not introduce unwanted sideeffects, please enjoy it at your own risk.

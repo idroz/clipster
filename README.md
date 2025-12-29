@@ -1,1 +1,1 @@
-# mezmer-app
+# Clipster
