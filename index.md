@@ -2,7 +2,7 @@
 
 Clipster automatically generates multiple social media videos and images from a single source video.
 
-If you enjoy using Clipster, consider [buying me a coffee]!
+If you enjoy using Clipster, consider [buying me a coffee](https://ko-fi.com/iad_draws)!
 
 ## Screenshots
 ![Image](/assets/images/sn1.png)
